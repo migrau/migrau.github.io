@@ -1,4 +1,4 @@
-title:            Site Title
+title:            
 description:      Describe your website here.
 disqus_shortname: hpstrtheme
 reading_time:     true
@@ -9,14 +9,14 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Miguel Grau López
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Living Learning. Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
+  email:          miguel.graulopez@oist.jp
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github: https://github.com/migrau         
   stackexchange:  
   linkedin:       
   instagram:      
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Japan
 future:      true
 highlighter: pygments
 markdown:    kramdown
