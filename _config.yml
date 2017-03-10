@@ -1,5 +1,5 @@
 title:            
-description:      Describe your website here.
+description: Recopilation of useful commands, pipelines and procedures, specially related with bioinformatics.
 disqus_shortname: httpmigraugithubio
 reading_time:     true
 words_per_minute: 200
@@ -9,18 +9,18 @@ url:
 
 # Owner/author information
 owner:
-  name:           Miguel Grau López
+  name:           Miquel Grau Lopez
   avatar:         avatar.jpg
   bio:            "Living Learning. Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better."
   email:          miguel.graulopez@oist.jp
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github: https://github.com/migrau         
+  github: migrau         
   stackexchange:  
-  linkedin:       
+  linkedin: miquel-grau-5054a710b       
   instagram:      
-  flickr:         
+  flickr: migi_nihon        
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +yourid
