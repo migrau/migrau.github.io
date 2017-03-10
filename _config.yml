@@ -1,5 +1,5 @@
 title:            
-description: Recopilation of useful commands, pipelines and procedures, specially related with bioinformatics.
+description:
 disqus_shortname: httpmigraugithubio
 reading_time:     true
 words_per_minute: 200
@@ -18,7 +18,7 @@ owner:
   facebook:       
   github: migrau         
   stackexchange:  
-  linkedin:     
+  linkedin: miquel-grau-5054a710b       
   instagram:      
   flickr: migi_nihon        
   tumblr:         
