@@ -1,5 +1,5 @@
 title:            
-description:      Describe your website here.
+description:      Collection of useful commands, pipelines and procedures, specially related with bioinformatics.
 disqus_shortname: httpmigraugithubio
 reading_time:     true
 words_per_minute: 200
@@ -16,11 +16,11 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:    
+  github: migrau   
   stackexchange:  
-  linkedin:   
+  linkedin: miquel-grau-5054a710b   
   instagram:      
-  flickr:  
+  flickr: migi_nihon
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
   google_plus:    +yourid
