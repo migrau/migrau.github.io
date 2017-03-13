@@ -17,8 +17,3 @@ But the most efficient way is to split the query fasta file in as many pieces as
 
 Steps:
  
-
-The implementation is easier using workflows tools like [snakemake](https://snakemake.readthedocs.io/en/stable/) or [nextflow](https://www.nextflow.io/). Here there is a solution of snakemake, to use in a single cpu, multi-core. A version to use on a cluster is available on my [github](https://github.com/migrau).
-
- 
-
