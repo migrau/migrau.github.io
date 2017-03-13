@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Second Post
+title: Multi-blast. Speed up a blast local alignment
 description: ""
 modified: 2017-03-14
-tags: [welcome post]
+tags: [blast][alignment]
 ---
 
 This is the very beggining of the blog.
