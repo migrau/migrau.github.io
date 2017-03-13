@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Multi-blast. Speed up a blast local alignment.
+title: Multi-blast. Speed up a blast local alignment
 description: ""
-modified: 2017-10-03
+modified: 2017-03-14
 tags: [blast][alignment]
 ---
 
