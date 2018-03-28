@@ -22,8 +22,6 @@ or increasing the threads availables:
 
 But the most efficient way is to split the query fasta file in as many pieces as you could run in parallel in your cluster/local cpu.
 
-OK
-
 ## Solution
 
 Steps:
